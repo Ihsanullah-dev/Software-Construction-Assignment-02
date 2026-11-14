@@ -2,14 +2,14 @@
 
 ## Student Information
 
-- **Name:** Ihsan Ullah
-- **Registration No:** 24ABSWE0026
-- **Department:** Software Engineering
-- **Semester:** 5th Semester
-- **University:** UET Abbottabad Campus
-- **Course:** Software Construction
-- **Instructor:** Engr. Rizwan Shah
-- **Assignment:** Assignment 02 – Legacy Code Refactoring
+**Name:** Ihsan Ullah
+**Registration No:** 24ABSWE0026
+**Department:** Software Engineering
+**Semester:** 5th Semester
+**University:** UET Abbottabad Campus
+**Course:** Software Construction
+**Instructor:** Engr. Rizwan Shah
+**Assignment:** Assignment 02 – Legacy Code Refactoring
 
 ---
 
